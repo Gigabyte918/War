@@ -1,0 +1,20 @@
+[
+    { 
+        "ip":"", 
+        "password":"minda",
+        "role":"ADMIN",
+        "name":"Administrator" 
+    },
+    { 
+        "ip":"", 
+        "password":"edom",
+        "role":"MODER",
+        "name":"Moderator" 
+    },
+    { 
+        "ip":"", 
+        "password":"guest",
+        "role":"USER",
+        "name":"Guest" 
+    }
+]

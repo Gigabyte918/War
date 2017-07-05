@@ -1,0 +1,1 @@
+Note: Dont Try to Copy or Cut run folder its can break the server
